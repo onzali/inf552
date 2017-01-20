@@ -1,0 +1,2 @@
+Size,Occupied,Price,Music,Location,VIP,FavoriteBeer
+Large,Moderate,Cheap,Loud,City-Center,No,No
